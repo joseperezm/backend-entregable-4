@@ -1,44 +1,6 @@
-# Proyecto de Actualización con Websockets y Handlebars
+# Actualización proyecto con Websockets y Handlebars
 
 Este proyecto ha sido actualizado para incluir funcionalidades de Websockets y Handlebars. Permite una visualización en tiempo real de la lista de productos utilizando Socket.io y Handlebars.
-
-## Instrucciones de Prueba
-
-Sigue estos pasos para probar las nuevas funciones:
-
-### Requisitos Previos
-
-- Asegúrate de tener Node.js y npm instalados en tu máquina.
-
-### Instalación
-
-1. Clona este repositorio en tu máquina local:
-
-    ```bash
-    git clone <URL_del_repositorio>
-    ```
-
-2. Navega al directorio del proyecto:
-
-    ```bash
-    cd entregable-3
-    ```
-
-3. Instala las dependencias:
-
-    ```bash
-    npm install
-    ```
-
-### Ejecución del Servidor
-
-1. Inicia el servidor:
-
-    ```bash
-    npm start
-    ```
-
-2. Abre tu navegador y visita [http://localhost:8080](http://localhost:8080).
 
 ### Prueba de Funcionalidades
 
